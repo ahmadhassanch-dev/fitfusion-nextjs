@@ -1,0 +1,65 @@
+🚀 Build me a modern, production-ready web application using Next.js (latest version) focused on health, fitness, and gym enthusiasts.
+
+The web app should be beautifully designed and include the following:
+
+🎨 Design & UI
+Use a futuristic, glassmorphism + neumorphism + gradient style with bright accent colors (e.g., neon green, electric blue, or hot pink) on a dark background.
+
+Smooth animations and transitions (e.g., Framer Motion or similar).
+
+Use modern UI libraries like Tailwind CSS (with custom themes) or shadcn/ui.
+
+Include responsive design: fully mobile-friendly, tablet, and desktop views.
+
+High-quality hero images or background illustrations relevant to gym and health.
+
+Consistent typography and visually stunning sections.
+
+🛠 Features
+Home page with an eye-catching hero section, tagline, and call-to-action.
+
+Workout plans listing page & detail pages (e.g., weight loss, muscle gain, cardio).
+
+Nutrition & diet tips section.
+
+BMI calculator and/or calorie calculator.
+
+User testimonials carousel or cards.
+
+Blog/articles page about fitness, mental health, supplements, etc.
+
+Contact page with form.
+
+Optional: login/signup for users to save favorite workouts or track progress.
+
+📦 Technical
+Use the App Router structure in Next.js.
+
+Organize folders cleanly: /app, /components, /styles, etc.
+
+Add SEO tags (Next SEO or manually).
+
+Deploy-ready: should work on Vercel.
+
+Code must follow clean architecture and be well-commented.
+
+Use TypeScript throughout.
+
+🌱 Extras (if possible)
+Integrate a free, open API (e.g., exercise or nutrition API).
+
+Include charts/graphs (Recharts or similar) to visualize workout progress.
+
+Add smooth scroll and parallax effects.
+
+Add a light/dark mode toggle.
+
+Use icons (Lucide, FontAwesome, etc.).
+
+Footer with social links.
+
+📢 Goal
+The website should look stunning, modern, and professional — something that could realistically compete with top fitness brands and inspire users to sign up, train, and live healthier.
+
+✅ Make sure to explain how to run it locally and deploy to Vercel.
+✅ Include a beautiful README.md with screenshots and features.
